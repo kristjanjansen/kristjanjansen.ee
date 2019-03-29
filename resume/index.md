@@ -1,6 +1,6 @@
 # Kristjan Jansen
 
-<big>Hola, I am user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building a interactive learning environment Fachwerk. Contact me kristjan.jansen@gmail.com or [+372 5016439](tel:+3725016439).</big>
+<big>Hola, I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building am interactive learning environment Fachwerk. Contact me kristjan.jansen@gmail.com or [+372 5016439](tel:+3725016439).</big>
 
 #### Career
 
@@ -10,7 +10,7 @@
 2018 | Data visualizer and UX engineer in [Sixfold](https://sixfold.com/) frontend team
 2016-2019 | Production lead in [DesignSTEM / Fachwerk](https://designstem.github.io/fachwerk) educational project
 2016-2017 | Data visualizer and UX engineer in [Proekspert](https://proekspert.ee/) R&D team
-2015-2014 | Design lead in [Jumia Porto Tech Center](https://www.linkedin.com/company/porto-tech-center), Portugal
+2014-2015 | Design lead in [Jumia Porto Tech Center](https://www.linkedin.com/company/porto-tech-center), Portugal
 2012-2018 | Design and technology teacher in Kuressaare Vocational School
 2005-2008 | Senior interaction designer and release design lead in [Skype](http://skype.com/) 
 1998-2005 | Art director in Estonian daily newspaper "Õhtuleht"
