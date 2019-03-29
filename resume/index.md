@@ -1,6 +1,6 @@
 # Kristjan Jansen
 
-<big>Hola, I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building an interactive learning environment Fachwerk. Contact me kristjan.jansen@gmail.com or [+372 5016439](tel:+3725016439).</big>
+<big>Hola, I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building an interactive learning environment Fachwerk. Contact me kristjan.jansen@gmail.com or [+3725016439](tel:+3725016439).</big>
 
 #### Career
 
