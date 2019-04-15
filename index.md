@@ -1,5 +1,4 @@
-| padding: none
-| height: fit
+| padding: 0
 
 <f-image src="./kristjan_jansen.jpg" />
 
