@@ -4,15 +4,25 @@
 
 -
 
-<section style="padding: var(--base6);">
+<section>
 
-# Kristjan Jansen
+# <big><big>Kristjan Jansen</big></big>
 
-<big>Hola, I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building an interactive learning environment <a href="https://designstem.github.io/fachwerk">Fachwerk</a>.</big>
+<big>
 
-<big>Here is my <a href="./resume">resume page</a> and <a href="./resume/kristjan_jansen_resume.pdf">PDF</a>. See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.</big>
+Hola, I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt.
 
-<big>Contact me kristjan.jansen@gmail.com or [+3725016439](tel:+3725016439).</big>
+I am currently building an interactive learning environment [Fachwerk](https://designstem.github.io/fachwerk).
+
+Here is my [resume page](./resume) and [PDF](./resume/kristjan_jansen_resume.pdf).
+
+See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
+
+Contact me kristjan.jansen@gmail.com or [+3725016439](tel:+3725016439).
+
+</big>
+
+<p />
 
 <small><a href="https://tõ.nu">Photo credits</a><small>
 
