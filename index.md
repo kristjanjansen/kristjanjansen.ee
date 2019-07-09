@@ -10,7 +10,7 @@
 
 <div class="grid" style="--cols: 1fr 1fr">
 
-<big>¡Hola! I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify). I am currently building an open source learning framework **Fachwerk**</big>
+<big>Hola, I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify). I am currently building an open source learning framework **Fachwerk**.</big>
 
 <div>
 
@@ -36,7 +36,7 @@
 
 <div>
 
-I am the lead developer and designer of open source ***frontend&nbsp;framework*** Fachwerk on top of [Vue](https://vuejs.org/) and [Markdown](https://commonmark.org/help/) that helps educators to build interactive learning experiences without programming experience.
+I am the lead developer and designer of an open source ***frontend&nbsp;framework*** Fachwerk on top of [Vue](https://vuejs.org/) and [Markdown](https://commonmark.org/help/) that helps educators to build interactive learning experiences without programming experience.
 
 The framework provides a simple text- and HTML-based authoring environment where the educators can create rich content including 2D and 3D graphics, realtime communications, audio and MIDI, flexible layouts, beautiful math and more.
 
@@ -130,7 +130,7 @@ The main technologies used were [Vue](https://vuejs.org/) and [d3](https://githu
 
   <div>
 
-My role in Jumia was ***building a design team*** from ground up for ***emerging markets*** and bringing the UX to the decision table.
+My role in Jumia was ***building a design team for emerging markets*** and bringing the UX to the decision table.
 
 In addition to hiring, design consultancy and managing user research I also prototyped several solutions to build up  ***design systems*** and optimize the company's products ***frontend performance*** for extreme bandwidth limitations of sub-Saharan internet.
 
@@ -152,7 +152,7 @@ In addition to hiring, design consultancy and managing user research I also prot
 
   <div>
 
-Hired as a first interaction designer in the company, I let the design team, designed several key features of the product, conducting usability studies and ***prototyping next generation Skype client*** that later become the current Skype user interface.
+Hired as a first interaction designer in the company, I designed several key features of the product, conducting usability studies and ***prototyping next generation Skype client*** that later became the current Skype user interface.
 
   </div>
 
@@ -166,7 +166,7 @@ Hired as a first interaction designer in the company, I let the design team, des
 
 **Founder and CTO for [Trip.ee](https://trip.ee)**
 
-<p style="color: var(--gray)">1998-2019</p>
+<p style="color: var(--gray)">1998-2018</p>
 
   </div>
 
@@ -191,7 +191,7 @@ I have also worked on improving the user experience on many other projects, incl
 
 <hr />
 
-<a href="https://tõ.nu">Photo credits</a>
+<small><a href="https://tõ.nu">Photo credits</a></small>
 
 </section>
 
