@@ -36,7 +36,7 @@
 
 <div>
 
-I am the lead developer and designer of open source ***frontend&nbsp;framework*** [Fachwerk](https://designstem.github.io/fachwerk) on top of [Vue](https://vuejs.org/) and [Markdown](https://commonmark.org/help/) that helps educators to build interactive learning experiences without programming experience.
+I am the lead developer and designer of open source ***frontend&nbsp;framework*** Fachwerk on top of [Vue](https://vuejs.org/) and [Markdown](https://commonmark.org/help/) that helps educators to build interactive learning experiences without programming experience.
 
 The framework provides a simple text- and HTML-based authoring environment where the educators can create rich content including 2D and 3D graphics, realtime communications, audio and MIDI, flexible layouts, beautiful math and more.
 
@@ -52,7 +52,7 @@ Github: [designstem/fachwerk](https://github.com/designstem/fachwerk)
 
 <div>
 
-**Data visualizer and UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team**
+**UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team**
 
 <div style="color: var(--gray)">2018</div>
 
