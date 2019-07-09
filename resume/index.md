@@ -6,12 +6,11 @@
 
 &nbsp; | &nbsp;
 --- | ---
-2018-2019 | Data visualizer and UX engineer in [Taxify/Bolt](https://bolt.eu) data science team
+2018 | Data visualizer and UX engineer in [Taxify/Bolt](https://bolt.eu) data science team
 2018 | Data visualizer and UX engineer in [Sixfold](https://sixfold.com/) frontend team
 2016-2019 | Production lead in [DesignSTEM / Fachwerk](https://designstem.github.io/fachwerk) educational project
 2016-2017 | Data visualizer and UX engineer in [Proekspert](https://proekspert.ee/) R&D team
 2014-2015 | Design lead in [Jumia Porto Tech Center](https://www.linkedin.com/company/porto-tech-center), Portugal
-2012-2018 | Design and technology teacher in Kuressaare Vocational School
 2005-2008 | Senior interaction designer and release design lead in [Skype](http://skype.com/) 
 1998-2005 | Art director in Estonian daily newspaper "Õhtuleht"
 1998-2018 | Founder, developer and designer of Estonian biggest travelsite [trip.ee](https://trip.ee)
@@ -37,6 +36,7 @@
 2010-2019 | "Designing with Artifical Intelligence", "Design for Large Screens" and "Introduction to UX" workshops in Estonian Academy of Arts
 2016 | Semester course "UX and UI design" for Computer Science students in Tartu University, Estonia
 2011-2012 | Workshops on paper prototyping, visual storytelling and form usability in DDVE, Tartu University, Estonia
+2012-2019 | Design and technology educator in Kuressaare Vocational School
 
 #### Conference presentations
 

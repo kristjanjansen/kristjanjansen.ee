@@ -1,7 +1,7 @@
 import { fachwerk } from "https://designstem.github.io/fachwerk/fachwerk.js";
 
 fachwerk({
-  editor: 'hide',
+  editor: "hide",
   pager: false,
-  home: false
-})
+  home: false,
+});
