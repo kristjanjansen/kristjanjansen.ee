@@ -62,7 +62,7 @@ Github: [designstem/fachwerk](https://github.com/designstem/fachwerk)
 
 **UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team**
 
-<div style="color: var(--gray)">2018</div>
+<p style="color: var(--gray)">2018</p>
 
 </div>
 
