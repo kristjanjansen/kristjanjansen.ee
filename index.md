@@ -8,13 +8,21 @@
 
 # <big>Kristjan Jansen</big>
 
-<div class="grid" style="--cols: 1fr 1fr">
-
-<big>Hola, I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify). I am currently building an open source learning framework **Fachwerk**.</big>
+<div class="grid" style="--cols: 1fr 1fr; --gap: 20px;">
 
 <div>
 
-<big>Here is my [web resume](./resume) and [PDF resume](./resume/kristjan_jansen_resume.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.<br>***I am available for hiring***. Contact me on [email](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).</big>
+<big>Hola, I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify).</big>
+
+<big>I am currently building an open source learning framework **Fachwerk**.</big>
+
+</div>
+
+<div>
+
+<big>Here is my [web resume](./resume) and [PDF resume](./resume/kristjan_jansen_resume.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
+
+<big>***I am available for hiring***. Contact me on [email](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).</big>
 
 </div>
 
