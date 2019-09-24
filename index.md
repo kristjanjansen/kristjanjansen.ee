@@ -1,6 +1,6 @@
 | padding: 0
 
-<f-image src="./kristjan_jansen_small.jpg" / style="height: 33vh">
+<f-image src="./kristjan_jansen_small.jpg" style="height: 33vh">
 
 <section>
 
