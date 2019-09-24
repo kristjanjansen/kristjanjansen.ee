@@ -1,9 +1,3 @@
-| padding: 0
-
-<f-image src="./kristjan_jansen_small.jpg" style="height: 33vh">
-
-<section>
-
 <br><br> 
 
 # <big>Kristjan Jansen</big>
@@ -201,6 +195,5 @@ I have also worked on improving the user experience on many other projects, incl
 
 <small><a href="https://tõ.nu">Photo credits</a></small>
 
-</section>
 
 <br><br><br><br><br>
