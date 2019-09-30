@@ -1,22 +1,38 @@
+| padding: 0
+
+<f-image src="./kristjan_jansen_small.jpg" style="height: 33vh" />
+
+<section>
+
 <br><br> 
 
 # <big>Kristjan Jansen</big>
 
-<div class="grid" style="--cols: 1fr 1fr; --gap: 20px;">
+<div class="grid" style="--cols: 1fr 1fr; --gap: 50px;">
 
 <div>
 
-<big>Hola, I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify).</big>
+<big>
 
-<big>I am currently building an open source learning framework **Fachwerk**.</big>
+Hola, I am a user experience designer, engineer and educator. I used to work for **Skype** and **Bolt** (ex-Taxify).
+
+I am currently building an open source learning framework **Fachwerk**.
+
+</big>
 
 </div>
 
 <div>
 
-<big>Here is my [web resume](./resume) and [PDF resume](./resume/kristjan_jansen_resume.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
+<big>
 
-<big>***I am available for hiring***. Contact me on [email](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).</big>
+Here is my [web resume](./resume) and [PDF resume](./resume/kristjan_jansen_resume.pdf).
+
+See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
+
+***I am available for hiring***. Contact me on [email](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
+
+</big>
 
 </div>
 
@@ -195,5 +211,6 @@ I have also worked on improving the user experience on many other projects, incl
 
 <small><a href="https://tõ.nu">Photo credits</a></small>
 
-
 <br><br><br><br><br>
+
+</section>
