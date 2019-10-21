@@ -1,8 +1,11 @@
+
+| background: ./kristjan_jansen_small.jpg
+| height: 50vh
+| tint: 0
+
+---
+
 | padding: 0
-
-<f-image src="./kristjan_jansen_small.jpg" style="height: 33vh" />
-
-<section>
 
 <br><br> 
 
@@ -70,7 +73,7 @@ Github: [designstem/fachwerk](https://github.com/designstem/fachwerk)
 
 <div>
 
-**UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team**
+**UX engineer<br> in [Bolt](https://bolt.eu) (ex-Taxify) data science team**
 
 <p style="color: var(--gray)">2018</p>
 
@@ -140,7 +143,7 @@ The main technologies used were [Vue](https://vuejs.org/) and [d3](https://githu
 
   <div>
 
-**UX lead in [Jumia Porto Tech Center](https://www.linkedin.com/company/porto-tech-center), Portugal**
+**UX lead<br> in [Jumia Porto Tech Center](https://www.linkedin.com/company/porto-tech-center), Portugal**
 
 <p style="color: var(--gray)">2014-2015</p>
 
@@ -212,5 +215,3 @@ I have also worked on improving the user experience on many other projects, incl
 <small><a href="https://tõ.nu">Photo credits</a></small>
 
 <br><br><br><br><br>
-
-</section>

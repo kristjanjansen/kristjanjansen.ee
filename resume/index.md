@@ -1,5 +1,3 @@
-<a href=".."><f-leftarrow-icon /></a>
-
 # Kristjan Jansen
 
 <big>I am a user experience designer, engineer and educator. I used to work for Skype and Taxify&nbsp;/&nbsp;Bolt. I am currently building an interactive learning environment Fachwerk. 
