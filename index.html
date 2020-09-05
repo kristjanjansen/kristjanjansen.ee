@@ -5,13 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       rel="stylesheet"
-      href="https://designstem.github.io/fachwerk/fachwerk.css"
+      href="https://visualia.github.io/visualia/dist/visualia.css"
     />
     <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600,600i&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
       rel="stylesheet"
     />
     <style>
+      :root {
+        --font-sansserif: Inter;
+      }
+      p {
+        line-height: 1.75em !important;
+      }
+      /*
       hr {
         border: 0;
         border-bottom: 1px solid var(--tertiary);
@@ -55,11 +62,11 @@
         section {
           padding: 0 var(--base3);
         }
-      }
+      }*/
     </style>
   </head>
   <body>
-    <div id="fachwerk"></div>
+    <div id="app"></div>
     <script src="./index.js" type="module"></script>
   </body>
 </html>

@@ -1,7 +1,4 @@
-import { fachwerk } from "https://designstem.github.io/fachwerk/fachwerk.js";
-
-fachwerk({
-  menu: "none",
-  editor: "none",
-  style: "--content-padding: 0"
+import { visualia } from "https://visualia.github.io/visualia/dist/visualia.js";
+visualia({
+  menu: false,
 });
