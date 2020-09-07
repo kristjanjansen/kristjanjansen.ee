@@ -1,32 +1,32 @@
-<br />
-
 # Kristjan Jansen
 
-<big>Hi, I am a user experience designer, developer and educator. I used to work for **Skype** and **Bolt**. Here is my [web resume](./resume) and [PDF resume](./resume/kristjan_jansen_resume.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.</big>
+<big>Hi, I am a user experience designer, developer and educator. I used to work for **Skype** and **Bolt**. Here is my [web resume](#kristjan-jansen-cv) and [PDF resume](kristjan_jansen_cv.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.</big>
+
+<big><b style="color: var(--orange)">I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
 
 <br />
 
-> <b>I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
+<v-image src="kristjan_jansen_small.jpg" />
 
 ### Senior frontend developer in Garden
 
-In Garden, a developer tooling company in Berlin, Germay, my role was to design and build out interfaces in **React** and **Typescript**, including enterprise product offering, public website, a **design system** and also experimental UIs like live dashboards and commandline client.
+In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React** and **Typescript**, including enterprise product offering, public website, a **design system** and also experimental UIs like live dashboard and command line client.
 
 <small>2020</small>
 
 ### Founder and lead developer in Fachwerk and Visualia
 
-I am a founder, lead developer and designer of an **open source frontend frameworks** [Fachwerk](https://github.com/designstem/fachwerk) and it's successor [Visualia](https://github.com/visualia/visualia), build on top of **VueJS** that helps educators to build interactive learning experiences without programming knowledge.
+I am a founder, lead developer, and designer of an **open-source frontend frameworks** [Fachwerk](https://github.com/designstem/fachwerk) and it's successor [Visualia](https://github.com/visualia/visualia), build on top of **VueJS** that helps educators to create interactive learning experiences without programming knowledge.
 
-The framework provides a simple authoring environment where the educators can create rich content including 2D and 3D graphics, realtime communications, audio and MIDI streams, beautiful math and more.
+The frameworks provide a simple authoring environment where the educators can create rich content, including 2D and 3D graphics, realtime communications, audio and MIDI streams, beautiful math, and more.
 
 <small>2018-2020 &ensp;https://github.com/designstem/fachwerk &ensp;https://github.com/visualia/visualia</small>
 
 ### UX developer in Bolt data science team
 
-My role was to help Bolt data science team to modernize their geovisualization stack, allowing to work with larger datasets in the browser more efficiently.
+My role was to help the Bolt data science team to modernize their geovisualization stack, allowing them to work with larger datasets in the browser more efficiently.
 
-The solution provided was series of **interactive visualizations for high volume transportation data** based on **React**, **kepler.gl**, **deck.gl** and data backend based on **Apache Arrow**. The design deployment process was handled by **Vercel** platform.
+The solution provided was a series of **interactive visualizations for high volume transportation data** based on **React**, **kepler.gl**, **deck.gl** and data backend based on **Apache Arrow**. The design deployment process was handled by **Vercel** platform.
 
 Bolt data science team picked up the tooling and now develop their solutions based on the proposed prototypes.
 
@@ -34,7 +34,7 @@ Bolt data science team picked up the tooling and now develop their solutions bas
 
 ### UX developer in Sixfold frontend team
 
-My role was to work with the design lead to prototype the logistics application in **React** and to provide **UI&nbsp;components** and **design&nbsp;tokens** for the frontend team.
+My role was to work with the design lead to prototype the logistics application in **React** and to provide **UI&nbsp;components** and **design tokens** for the frontend team.
 
 The work included creating **parametric user interface** in React to enabling all team members to participate in the design process.
 
@@ -42,11 +42,11 @@ The work included creating **parametric user interface** in React to enabling al
 
 ### Experimental UI designer in Proekspert R&D team
 
-In Proekspert I worked on the next generation user experience, prototyping the UI solutions and testing technologies for upcoming products.
+In Proekspert, I worked on the next-generation user experience, prototyping the UI solutions and testing technologies for upcoming products.
 
 Some of the work included **realtime anomaly detection dashboard**, **interactive factory floor visualizations**, **VR big data experiments**, **commandline UX design** and **generative brand visuals generator**.
 
-The main technologies used were **VueJS** and **d3** in the frontend and **NodeJS** and **Socket.io** in the backend.
+The leading technologies used were **VueJS** and **d3** in the frontend and **NodeJS** and **Socket.io** in the backend.
 
 <small>2016-2017 &ensp;https://proekspert.ee/</small>
 
@@ -54,13 +54,13 @@ The main technologies used were **VueJS** and **d3** in the frontend and **NodeJ
 
 My role in Jumia was **building a design team for emerging markets** and bringing the UX to the decision table.
 
-In addition to hiring, design consultancy and managing user research I also prototyped several solutions to build up **design systems** and optimize the company's products **frontend performance** for extreme bandwidth limitations of sub-Saharan internet.
+In addition to hiring, design consultancy, and managing user research, I also prototyped several solutions to build up **design systems** and optimize the company's products ** frontend performance** for extreme bandwidth limitations sub-Saharan internet.
 
 <small>2014-2015 &ensp;https://www.linkedin.com/company/porto-tech-center</small>
 
 ### Senior interaction designer and release design lead in Skype
 
-Hired as a first interaction designer in the company, I designed several key features of the product, conducting usability studies and **prototyping next generation Skype client** that later became the current Skype user interface.
+Hired as a first interaction designer in the company, I designed several key features of the product, conducting usability studies and **prototyping next-generation Skype client** that later became the current Skype user interface.
 
 <small>2005-2008 &ensp;http://skype.com</small>
 

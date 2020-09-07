@@ -1,6 +1,4 @@
-<br />
-
-# Kristjan Jansen
+# Kristjan Jansen CV
 
 ### Contacts
 
@@ -30,6 +28,8 @@
 
 I have also worked on improving the user experience on many other projects, including **universities** (Tartu University), **startups** (Daily Perfect, Station, VTV), **telecommunications** (EMT), **ecommerce sites** (Hewlett-Packard, Hansapost, Klick), **nonprofit organizations** (Keskkonnateated, The Happyness Bank, Municipality Tools, Praxis, Open Data Estonia) and **open source projects** (Drupal).
 
+<br /><br />
+
 ### Education
 
 | &nbsp; | &nbsp;                                                                |
@@ -40,11 +40,11 @@ I have also worked on improving the user experience on many other projects, incl
 
 <br />
 
-### Educator experimence
+### Educator experience
 
 | &nbsp;    | &nbsp;                                                                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2017-2019 | **Designing with Artifical Intelligence** and **Design for Large Screens** workshops in Estonian Academy of Arts   |
+| 2017-2019 | **Designing with Artificial Intelligence** and **Design for Large Screens** workshops in Estonian Academy of Arts  |
 | 2016      | Semester course **UX and UI design** for Computer Science students in Tartu University, Estonia                    |
 | 2011-2012 | Workshops on **paper prototyping**, **visual storytelling** and **form design** in DDVE, Tartu University, Estonia |
 | 2012-2019 | Design and technology educator in Kuressaare Vocational School                                                     |
@@ -73,4 +73,4 @@ I have also worked on improving the user experience on many other projects, incl
 
 ### Languages
 
-I speak Estonian, English, Russian, Spanish and Portuguese
+I speak Estonian, English, Russian, Spanish, and Portuguese

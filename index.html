@@ -15,6 +15,14 @@
       :root {
         --font-sansserif: Inter;
       }
+      h1 {
+        margin-top: 75px !important;
+      }
+      @media print {
+        h1 {
+          margin-top: 0 !important;
+        }
+      }
       big,
       p {
         line-height: 1.75em !important;
@@ -26,6 +34,33 @@
       small a {
         color: var(--gray);
         border-color: var(--gray);
+      }
+      td {
+        font-size: 1em !important;
+        line-height: 1.5em;
+      }
+      td:first-child {
+        width: 120px;
+        color: var(--gray);
+      }
+      th {
+        display: none;
+      }
+      table {
+        display: grid !important;
+      }
+      @media print {
+        tr {
+          display: table-row !important;
+        }
+      }
+      @media (max-width: 600px) {
+        td:first-child {
+          padding-top: 20px;
+        }
+        td:last-child {
+          padding-bottom: 20px;
+        }
       }
     </style>
   </head>
