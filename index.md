@@ -4,10 +4,6 @@
 
 <big><b style="color: var(--orange)">I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
 
-<br />
-
-<v-image src="kristjan_jansen_small.jpg" />
-
 ### Senior frontend developer in Garden
 
 In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React** and **Typescript**, including enterprise product offering, public website, a **design system** and also experimental UIs like live dashboard and command line client.
