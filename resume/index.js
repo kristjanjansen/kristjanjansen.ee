@@ -1,6 +1,4 @@
-import { fachwerk } from "https://designstem.github.io/fachwerk/fachwerk.js";
-
-fachwerk({
-  typebutton: "none",
-  home: ".."
+import { visualia } from "https://visualia.github.io/visualia/dist/visualia.js";
+visualia({
+  menu: false,
 });

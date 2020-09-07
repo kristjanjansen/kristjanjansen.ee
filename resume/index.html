@@ -5,87 +5,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       rel="stylesheet"
-      href="https://designstem.github.io/fachwerk/fachwerk.css"
+      href="https://visualia.github.io/visualia/dist/visualia.css"
     />
-
     <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600,600i&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
       rel="stylesheet"
     />
     <style>
-      hr {
-        border: 0;
-        border-bottom: 1px solid var(--tertiary);
-        margin: 2rem 0;
+      :root {
+        --font-sansserif: Inter;
       }
-      hr.thick {
-        border-bottom: 3px solid var(--tertiary);
+      big,
+      p {
+        line-height: 1.75em !important;
       }
-      strong em {
-        background: var(--lightblue);
+      small {
+        font-size: 1em;
+        color: var(--gray);
       }
-      a {
-        border-bottom: 2px solid var(--lightgray);
-        border-bottom: none;
-        color: var(--blue);
+      small a {
+        color: var(--gray);
+        border-color: var(--gray);
       }
-      a:hover {
-        border-bottom: 2px solid var(--lightblue);
-      }
-      body {
-        font-weight: 400 !important;
-        line-height: 2rem;
-      }
-      h1,
-      h2,
-      h3,
-      h4,
-      h5,
-      strong,
-      b,
-      a {
-        font-weight: 600 !important;
-      }
-      section {
-        padding: 0 var(--base10);
-      }
-      @media (max-width: 800px) {
-        :root {
-          --base: 10px;
-        }
-        section {
-          padding: 0 var(--base3);
-        }
-      }
-      table {
-        transform: translateY(-40px);
-        margin: 0;
+      td {
+        font-size: 1em !important;
       }
       td:first-child {
-        width: 150px !important;
-        opacity: 0.5;
-        vertical-align: top;
+        width: 120px;
+        color: var(--gray);
       }
-      h4 {
-        margin: 0 0 0.5rem 0;
+      th {
+        display: none;
       }
-      @media (max-width: 800px) {
-        :root {
-          --base: 10px;
-        }
-        section {
-          padding: 0 var(--base3);
-        }
-      }
-      @media print {
-        .quaternary {
-          display: none;
-        }
+      table {
+        display: grid !important;
       }
     </style>
   </head>
   <body>
-    <div id="fachwerk"></div>
+    <div id="app"></div>
     <script src="./index.js" type="module"></script>
   </body>
 </html>
