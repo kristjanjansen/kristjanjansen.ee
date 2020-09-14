@@ -1,12 +1,18 @@
 # Kristjan Jansen
 
-<big>Hi, I am a user experience designer, developer and educator. I used to work for **Skype** and **Bolt**. Here is my [web resume](#kristjan-jansen-cv) and [PDF resume](kristjan_jansen_cv.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.</big>
+<big>Hi, I am a UX/UI designer, developer and educator. I used to work for **Skype** and **Bolt**. Here is my [web resume](#kristjan-jansen-cv) and [PDF resume](kristjan_jansen_cv.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.</big>
+
+<br />
+
+<img src="kristjan_jansen_horizontal.jpg" alt="Kristjan Jansen photo" />
+
+<br />
 
 <big><b style="color: var(--orange)">I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
 
 ### Senior frontend developer in Garden
 
-In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React** and **Typescript**, including enterprise product offering, public website, a **design system** and also experimental UIs like live dashboard and command line client.
+In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React**, including enterprise product offering, public website, a **design system written in Typescript** and also experimental UIs like **live dashboard** and **CLI client**.
 
 <small>2020</small>
 
@@ -40,7 +46,7 @@ The work included creating **parametric user interface** in React to enabling al
 
 In Proekspert, I worked on the next-generation user experience, prototyping the UI solutions and testing technologies for upcoming products.
 
-Some of the work included **realtime anomaly detection dashboard**, **interactive factory floor visualizations**, **VR big data experiments**, **commandline UX design** and **generative brand visuals generator**.
+Some of the work included **realtime anomaly detection dashboard**, **interactive visualizations** for factory floors, **VR big data experiments**, **commandline UX design** and **generative brand visuals generator**.
 
 The leading technologies used were **VueJS** and **d3** in the frontend and **NodeJS** and **Socket.io** in the backend.
 
@@ -72,7 +78,7 @@ Originally based on **Drupal**, the latest iteration of the site is built on **L
 
 ### Other projects
 
-I have also worked on improving the user experience on many other projects, including **universities** (Tartu University), **startups** (Daily Perfect, Station, VTV), **telecommunications** (EMT), **ecommerce sites** (Hewlett-Packard, Hansapost, Klick) and **nonprofit organizations** (Keskkonnateated, The Happyness Bank, Municipality Tools, Praxis, Open Data Estonia).
+I have also worked on improving the user experience on many other projects, including **universities** (Tartu University), **startups** (Daily Perfect, Station, VTV), **telecommunications** (EMT), **ecommerce sites** (Hewlett-Packard, Hansapost, Klick), **nonprofit organizations** (Keskkonnateated, The Happyness Bank, Municipality Tools, Praxis, Open Data Estonia) and **creative coding / performing arts** (MIMProject, eˉlektron)
 
 <br />
 
