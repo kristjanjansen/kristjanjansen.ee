@@ -56,7 +56,7 @@ The leading technologies used were **VueJS** and **d3** in the frontend and **No
 
 My role in Jumia was **building a design team for emerging markets** and bringing the UX to the decision table.
 
-In addition to hiring, design consultancy, and managing user research, I also prototyped several solutions to build up **design systems** and optimize the company's products ** frontend performance** for extreme bandwidth limitations sub-Saharan internet.
+In addition to hiring, design consultancy, and managing user research, I also prototyped several solutions to build up **design systems** and optimize the company's products **frontend performance** for extreme bandwidth limitations sub-Saharan internet.
 
 <small>2014-2015 &ensp;https://www.linkedin.com/company/porto-tech-center</small>
 
