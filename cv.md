@@ -16,7 +16,9 @@
 
 | &nbsp;    | &nbsp;                                                                                             |
 | --------- | -------------------------------------------------------------------------------------------------- |
-| 2018-2019 | CTO and lead developer in frontend framework [Fachwerk](https://designstem.github.io/fachwerk)     |
+| 2020      | Lead developer at eˉlektron                                                                        |
+| 2020      | Senior frontend developer in Garden                                                                |
+| 2018-2020 | CTO and lead developer in frontend framework [Visualia](https://visualia.github.io/visualia)       |
 | 2018      | UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team                               |
 | 2018      | UX engineer in [Sixfold](https://sixfold.com/) frontend team                                       |
 | 2016-2017 | Experimental UI designer in [Proekspert](https://proekspert.ee/) research and development team     |
