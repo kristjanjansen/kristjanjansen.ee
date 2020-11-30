@@ -10,13 +10,19 @@
 
 <big><b style="color: var(--orange)">I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
 
+### Lead developer at eˉlektron
+
+In [eˉlektron](https://elektron.live/), a video streaming and audience interaction platform for performing arts, I have worked on various media and data streaming solutions (RTMP/HLS/WebRTC/Websockets). I also built a platform frontend and several experimental prototypes in VueJS and React. The work is completely open source at https://github.com/elektronstudio/docs
+
+<small>2020</small>
+
 ### Senior frontend developer in Garden
 
 In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React**, including enterprise product offering, public website, a **design system written in Typescript** and also experimental UIs like **live dashboard** and **CLI client**.
 
 <small>2020</small>
 
-### Founder and lead developer in Fachwerk and Visualia
+### Founder and lead developer in Visualia
 
 I am a founder, lead developer, and designer of an **open-source frontend frameworks** [Fachwerk](https://github.com/designstem/fachwerk) and it's successor [Visualia](https://github.com/visualia/visualia), build on top of **VueJS** that helps educators to create interactive learning experiences without programming knowledge.
 
