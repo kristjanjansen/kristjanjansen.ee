@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="kristjan_jansen_horizontal.jpg" alt="Kristjan Jansen photo" />
+<a href="kristjan_jansen.jpg"><img src="kristjan_jansen_horizontal.jpg" alt="Kristjan Jansen photo" /></a>
 
 <br />
 
