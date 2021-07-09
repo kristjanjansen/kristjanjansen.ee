@@ -10,13 +10,13 @@
 
 <big><b style="color: var(--orange)">I am available for hiring.</b> Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
 
-### Lead developer at eˉlektron
+### UX and tech lead at eˉlektron.art
 
-In [eˉlektron](https://elektron.live/), a video streaming and audience interaction platform for performing arts, I have worked on various media and data streaming solutions (RTMP/HLS/WebRTC/Websockets). I also built a platform frontend and several experimental prototypes in VueJS and React. The work is completely open source at https://github.com/elektronstudio/docs
+In [eˉlektron.art](https://elektron.art/), a video streaming and audience interaction platform, I have worked on various media and data streaming solutions (RTMP/HLS/WebRTC/Websockets), VueJS and React frontends and NodeJS backend.
 
-<small>2020</small>
+<small>2020-2021</small>
 
-### Senior frontend developer in Garden
+### Senior UX and frontend developer in Garden
 
 In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to design and build out interfaces in **React**, including enterprise product offering, public website, a **design system written in Typescript** and also experimental UIs like **live dashboard** and **CLI client**.
 
@@ -26,17 +26,17 @@ In Garden, a **Kubernetes** developer tooling company in Berlin, my role was to 
 
 I am a founder, lead developer, and designer of an **open-source frontend frameworks** [Fachwerk](https://github.com/designstem/fachwerk) and it's successor [Visualia](https://github.com/visualia/visualia), build on top of **VueJS** that helps educators to create interactive learning experiences without programming knowledge.
 
-The frameworks provide a simple authoring environment where the educators can create rich content, including 2D and 3D graphics, realtime communications, audio and MIDI streams, beautiful math, and more.
+The frameworks provide a simple authoring environment where the educators can create rich content, including 2D and 3D graphics, real-time communications, beautiful math, and more.
 
 <small>2018-2020 &ensp;https://github.com/designstem/fachwerk &ensp;https://github.com/visualia/visualia</small>
 
 ### UX developer in Bolt data science team
 
-My role was to help the Bolt data science team to modernize their geovisualization stack, allowing them to work with larger datasets in the browser more efficiently.
+My role was to help the Bolt data science team to modernize their visualization stack, allowing them to work with larger datasets in the browser more efficiently.
 
 The solution provided was a series of **interactive visualizations for high volume transportation data** based on **React**, **kepler.gl**, **deck.gl** and data backend based on **Apache Arrow**. The design deployment process was handled by **Vercel** platform.
 
-Bolt data science team picked up the tooling and now develop their solutions based on the proposed prototypes.
+Bolt data science team picked up the tooling and now develops their solutions based on the proposed prototypes.
 
 <small>2018 &ensp;https://bolt.eu/</small>
 
@@ -68,7 +68,7 @@ In addition to hiring, design consultancy, and managing user research, I also pr
 
 ### Senior interaction designer and release design lead in Skype
 
-Hired as a first interaction designer in the company, I designed several key features of the product, conducting usability studies and **prototyping next-generation Skype client** that later became the current Skype user interface.
+Hired as the first interaction designer in the company, I designed several key features of the product, conducting usability studies and **prototyping next-generation Skype client** that later became the current Skype user interface.
 
 <small>2005-2008 &ensp;http://skype.com</small>
 
