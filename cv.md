@@ -16,8 +16,8 @@
 
 | &nbsp;    | &nbsp;                                                                                             |
 | --------- | -------------------------------------------------------------------------------------------------- |
-| 2020      | Lead developer at eˉlektron                                                                        |
-| 2020      | Senior frontend developer in Garden                                                                |
+| 2020-2021 | UX and tech lead at eˉlektron.art                                                                  |
+| 2020      | Senior UX and frontend developer in Garden                                                         |
 | 2018-2020 | CTO and lead developer in frontend framework [Visualia](https://visualia.github.io/visualia)       |
 | 2018      | UX engineer in [Bolt](https://bolt.eu) (ex-Taxify) data science team                               |
 | 2018      | UX engineer in [Sixfold](https://sixfold.com/) frontend team                                       |
@@ -44,12 +44,12 @@ I have also worked on improving the user experience on many other projects, incl
 
 ### Educator experience
 
-| &nbsp;    | &nbsp;                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2017-2019 | **Designing with Artificial Intelligence** and **Design for Large Screens** workshops in Estonian Academy of Arts  |
-| 2016      | Semester course **UX and UI design** for Computer Science students in Tartu University, Estonia                    |
-| 2011-2012 | Workshops on **paper prototyping**, **visual storytelling** and **form design** in DDVE, Tartu University, Estonia |
-| 2012-2019 | Design and technology educator in Kuressaare Vocational School                                                     |
+| &nbsp;    | &nbsp;                                                                                                                                                |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017-2021 | **Designing Tools for Remote Work**, **Designing for Artificial Intelligence** and **Design for Large Screens** workshops in Estonian Academy of Arts |
+| 2016      | Semester course **UX and UI design** for Computer Science students in Tartu University, Estonia                                                       |
+| 2011-2012 | Workshops on **paper prototyping**, **visual storytelling** and **form design** in DDVE, Tartu University, Estonia                                    |
+| 2012-2019 | UX and technology educator in Kuressaare Vocational School. Creating comprehensive courses on UX design, development and management.                  |
 
 <br />
 
