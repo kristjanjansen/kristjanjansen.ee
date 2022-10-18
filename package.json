@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite-ssg build",
-    "preview": "vite preview"
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && netlify deploy --prod"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.7",
     "@vitejs/plugin-vue": "^3.1.0",
     "build": "^0.1.4",
     "critters": "^0.0.16",
+    "netlify": "^13.0.1",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.1.8",
     "vite": "^3.1.0",
