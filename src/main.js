@@ -1,5 +1,7 @@
-import { ViteSSG } from "vite-ssg/single-page";
-import "./style.css";
-import App from "./index.md";
+import { ViteSSG } from "vite-ssg";
+import App from "./App.vue";
+import routes from "~pages";
 
-export const createApp = ViteSSG(App);
+import "./style.css";
+
+export const createApp = ViteSSG(App, { routes });
