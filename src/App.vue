@@ -25,7 +25,7 @@
   prose-p:after:content-none
   prose-h1:!mb-2
   prose-h2:!text-2xl
-  prose-h2:!mt-10
+  prose-h2:!mt-16
   prose-h2:!mb-4
   prose-p:mb-0
   prose-strong:font-medium
