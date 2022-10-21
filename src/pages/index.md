@@ -94,8 +94,6 @@ The work included creating **parametric user interface** in React to enabling al
 
 <small>2016-2017 &ensp;https://proekspert.ee/</small>
 
-<img :src="datatable.src" alt="Fachwerk image" :width="datatable.width" :height="datatable.height" class="shadow-xl" />
-
 In Proekspert, I worked on the next-generation user experience, prototyping the UI solutions and testing technologies for upcoming products.
 
 Some of the work included **realtime anomaly detection dashboard**, **interactive visualizations** for factory floors, **VR big data experiments**, **commandline UX design** and **generative brand visuals generator**.
