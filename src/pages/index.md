@@ -3,18 +3,22 @@ import mental from '../images/mental.png?w=1000&webp&metadata'
 import elektron from '../images/elektron_experiment.png?w=1000&webp&metadata'
 import fachwerk from '../images/fachwerk.png?w=1000&webp&metadata'
 import services from '../images/services.png?w=1000&webp&metadata'
+import berlin from '../images/berlin.png?w=1000&webp&metadata'
 import garden from '../images/garden.png?w=1000&webp&metadata'
 import bolt from '../images/bolt.png?w=1000&webp&metadata'
 import map from '../images/map.png?w=1000&webp&metadata'
+import prisma from '../images/prisma.png?w=1000&webp&metadata'
+import datatable from '../images/datatable.png?w=1000&webp&metadata'
+import tallinn from '../images/tallinn.png?w=1000&webp&metadata'
 </script>
 
 # Olá!
 
-I am **Kristjan Jansen**, an UX/UI designer, developer and educator. I used to work for Skype and Bolt. Here is my [web resume](/cv) and [PDF resume](kristjan_jansen_cv.pdf).
-
-See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
+I am **Kristjan Jansen**, an UX/UI designer, developer and educator. I used to work for Skype and Bolt. Here is my [web resume](/cv) and [PDF resume](kristjan_jansen_cv.pdf). See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter.com/kristjanjansen) and [Linkedin](http://ee.linkedin.com/pub/kristjan-jansen/15/b06/778) pages.
 
 > I am available for hiring. Contact me on [kristjan.jansen@gmail.com](mailto:kristjan.jansen@gmail.com) or [+372 5016439](tel:+3725016439).
+
+Below are some of my latest **projects** and **job positions**.
 
 ## UX and tech lead at elektron.art
 
@@ -22,7 +26,7 @@ See also my [Github](http://github.com/kristjanjansen), [Twitter](http://twitter
 
 <img :src="elektron.src" alt="Elektron image" :width="elektron.width" :height="elektron.height" class="shadow-xl" />
 
-In [elektron.art](https://elektron.art/), a video streaming and audience interaction platform, I worked on **Nuxt&nbsp;3** & **Tailwind** frontend and **NodeJS** backend. The project incorporated many experimental technologies and user experiences: **collaborative realtime interactions**, RTMP / HLS / WebRTC streaming, Websocket communication audio and video visualization and more.
+In [elektron.art](https://elektron.art/), a video streaming and audience interaction platform, I worked on **Nuxt&nbsp;3** & **Tailwind** frontend and **NodeJS** backend. The project incorporated many experimental technologies and user experiences: collaborative realtime interactions, RTMP / HLS / WebRTC streaming, Websocket communication, audio and video visualization and more.
 
 ## Mental health visualization
 
@@ -30,7 +34,7 @@ In [elektron.art](https://elektron.art/), a video streaming and audience interac
 
 <img :src="mental.src" alt="Services image" :width="mental.width" :height="mental.height" class="shadow-xl" />
 
-An interactive tool for mapping and analyzing mental healh and emotion patterns using **d3** and **Vue 3**.
+An interactive tool for mapping and analyzing mental health and emotion patterns using **d3** and **Vue 3**.
 
 ## Estonian public services visualization
 
@@ -39,6 +43,14 @@ An interactive tool for mapping and analyzing mental healh and emotion patterns 
 <img :src="services.src" alt="Services image" :width="services.width" :height="services.height" class="shadow-xl" />
 
 An experimental visualization of public institutions and goverment services, scraped from the open data and visualized using **d3** and **Vue 3**.
+
+## Berlin districts visualization
+
+<small>2020 https://github.com/kristjanjansen/berlinmap</small>
+
+<img :src="berlin.src" alt="Berlin image" :width="berlin.width" :height="berlin.height" class="shadow-xl" />
+
+A tool for analyzing Berlin housing pricing, public transportation network and kindergarten availability. Based on Berlin open data, visualized using **Mapbox**, **d3** and **React**.
 
 ## Senior UX and frontend developer in Garden
 
@@ -82,6 +94,8 @@ The work included creating **parametric user interface** in React to enabling al
 
 <small>2016-2017 &ensp;https://proekspert.ee/</small>
 
+<img :src="datatable.src" alt="Fachwerk image" :width="datatable.width" :height="datatable.height" class="shadow-xl" />
+
 In Proekspert, I worked on the next-generation user experience, prototyping the UI solutions and testing technologies for upcoming products.
 
 Some of the work included **realtime anomaly detection dashboard**, **interactive visualizations** for factory floors, **VR big data experiments**, **commandline UX design** and **generative brand visuals generator**.
@@ -95,6 +109,14 @@ The leading technologies used were **Vue** and **d3** in the frontend and **Node
 My role in Jumia was **building a design team for emerging markets** and bringing the UX to the decision table.
 
 In addition to hiring, design consultancy, and managing user research, I also prototyped several solutions to build up **design systems** and optimize the company's products **frontend performance** for extreme bandwidth limitations sub-Saharan internet.
+
+## Tallinn budget visualization
+
+<small>2014 https://github.com/kristjanjansen/tallinna_eelarve http://kristjanjansen.github.io/tallinna_eelarve</small>
+
+<img :src="tallinn.src" alt="Tallinn budget image" :width="tallinn.width" :height="tallinn.height" class="shadow-xl" />
+
+Experimental Tallinn buget visualiztion, one of the first attempts in Estonia to make public budgeting visually processable.
 
 ## Senior interaction designer and release design lead in Skype
 
